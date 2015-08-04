@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/aditya/AndroidStudioProjects/TwitterAutomate/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/aditya/AndroidStudioProjects/TwitterAutomate/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-7cd4f8b8958407f0cf1fdd1339fb1c3ff7ea3bf5.jar" />
+    </item>
+    <item
+        jar="/Users/aditya/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/aditya/AndroidStudioProjects/TwitterAutomate/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-aa1545f67d05ea0ee7c34b4be9e0a7c2b4eb4d64.jar" />
+    </item>
+    <item
+        jar="/Users/aditya/AndroidStudioProjects/TwitterAutomate/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.4/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f7dc6b43d7c7f3d94e98531aef88269f9ed2a37b">
+        <dex dex="/Users/aditya/AndroidStudioProjects/TwitterAutomate/app/build/intermediates/pre-dexed/debug/classes-5f4498add61bea5341362a6d2e9ca7e7978d466e.jar" />
+    </item>
+    <item
+        jar="/Users/aditya/AndroidStudioProjects/TwitterAutomate/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter/1.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a18abee4a31687c45cc673c4a8af0b346c80d2f4">
+        <dex dex="/Users/aditya/AndroidStudioProjects/TwitterAutomate/app/build/intermediates/pre-dexed/debug/classes-ce19112aafdbcc3861fbd4c7a075f5216c628485.jar" />
+    </item>
+    <item
+        jar="/Users/aditya/AndroidStudioProjects/TwitterAutomate/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="85d6153e19093517149158d7d6600c63a3169c76">
+        <dex dex="/Users/aditya/AndroidStudioProjects/TwitterAutomate/app/build/intermediates/pre-dexed/debug/classes-e92bbb1e7318c2be3cf3231f28f0bff5480259a2.jar" />
+    </item>
+    <item
+        jar="/Users/aditya/AndroidStudioProjects/TwitterAutomate/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.4.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b4cc38e70a45941011607ab4a2c46bacc5395b1c">
+        <dex dex="/Users/aditya/AndroidStudioProjects/TwitterAutomate/app/build/intermediates/pre-dexed/debug/classes-be51fe44ef221a8dc9d4fbd6fa0fbbfc0fb9025d.jar" />
+    </item>
+    <item
+        jar="/Users/aditya/AndroidStudioProjects/TwitterAutomate/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/0.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="157015930713d0411b69a76606f306c9a2c11af3">
+        <dex dex="/Users/aditya/AndroidStudioProjects/TwitterAutomate/app/build/intermediates/pre-dexed/debug/classes-08c3e444f598302ed94f5341591c616a97d8b4f7.jar" />
+    </item>
+    <item
+        jar="/Users/aditya/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/aditya/AndroidStudioProjects/TwitterAutomate/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-7421ae4d97c44701f24f07a3d7844ba203df2c55.jar" />
+    </item>
+    <item
+        jar="/Users/aditya/AndroidStudioProjects/TwitterAutomate/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/aditya/AndroidStudioProjects/TwitterAutomate/app/build/intermediates/pre-dexed/debug/classes-1a5e17b5f142aad2f1f9ecc9369864dac6fc5c62.jar" />
+    </item>
+    <item
+        jar="/Users/aditya/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/aditya/AndroidStudioProjects/TwitterAutomate/app/build/intermediates/pre-dexed/debug/gson-2.2.4-edb3cf58be56f643adaa92a8af00830dd05371a3.jar" />
+    </item>
+    <item
+        jar="/Users/aditya/AndroidStudioProjects/TwitterAutomate/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/aditya/AndroidStudioProjects/TwitterAutomate/app/build/intermediates/pre-dexed/debug/classes-6ea737ca20a59e089b4fe9193cbb1ef5053431cd.jar" />
+    </item>
+    <item
+        jar="/Users/aditya/AndroidStudioProjects/TwitterAutomate/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.6.2/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7aa9f1005cfc02016af0c01eab6b71ca4c6c72dd">
+        <dex dex="/Users/aditya/AndroidStudioProjects/TwitterAutomate/app/build/intermediates/pre-dexed/debug/classes-79f08165605b58ce93ed5157b188d657a05458ec.jar" />
+    </item>
+    <item
+        jar="/Users/aditya/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.6.1/efb0a36546aa8857ab8df358b106c1817e03cbee/retrofit-1.6.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="efb0a36546aa8857ab8df358b106c1817e03cbee">
+        <dex dex="/Users/aditya/AndroidStudioProjects/TwitterAutomate/app/build/intermediates/pre-dexed/debug/retrofit-1.6.1-d6c1ebcb4a5f9f710c36dcc1cd4866a4410eddc3.jar" />
+    </item>
+
+</items>
